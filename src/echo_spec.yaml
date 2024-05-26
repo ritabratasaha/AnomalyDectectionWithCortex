@@ -1,0 +1,5 @@
+spec:
+  container:
+  - name: streamlit
+    image: sfsenorthamerica-rsaha.registry.snowflakecomputing.com/container_hol_db/anomalyapp/app_image_repo/appservice_image
+    
